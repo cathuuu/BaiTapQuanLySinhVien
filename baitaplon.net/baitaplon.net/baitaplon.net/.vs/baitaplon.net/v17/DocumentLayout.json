@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|d:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\frmqlyloptheomon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|solutionrelative:baitaplon.net\\frmqlyloptheomon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|d:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\frmqlyloptheomon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|solutionrelative:baitaplon.net\\frmqlyloptheomon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\frmlietkemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|solutionrelative:baitaplon.net\\frmlietkemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\frmlietkemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|solutionrelative:baitaplon.net\\frmlietkemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\databaseconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|solutionrelative:baitaplon.net\\databaseconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|solutionrelative:baitaplon.net\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|solutionrelative:baitaplon.net\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|solutionrelative:baitaplon.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\frmthongkechung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|solutionrelative:baitaplon.net\\frmthongkechung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\frmqlymonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|solutionrelative:baitaplon.net\\frmqlymonhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\frmthongkechung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD26BEB-B1C2-48A5-9B2D-9F1C23AD7ECF}|baitaplon.net\\baitaplon.net.csproj|solutionrelative:baitaplon.net\\frmthongkechung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 291,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmQlyLopTheoMon.cs [Design]",
+              "DocumentMoniker": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmQlyLopTheoMon.cs",
+              "RelativeDocumentMoniker": "baitaplon.net\\FrmQlyLopTheoMon.cs",
+              "ToolTip": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmQlyLopTheoMon.cs [Design]",
+              "RelativeToolTip": "baitaplon.net\\FrmQlyLopTheoMon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:35:23.693Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmQlyLopTheoMon.cs",
+              "DocumentMoniker": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmQlyLopTheoMon.cs",
+              "RelativeDocumentMoniker": "baitaplon.net\\FrmQlyLopTheoMon.cs",
+              "ToolTip": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmQlyLopTheoMon.cs",
+              "RelativeToolTip": "baitaplon.net\\FrmQlyLopTheoMon.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAswGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:14:31.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmThongKeChung.cs",
+              "DocumentMoniker": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmThongKeChung.cs",
+              "RelativeDocumentMoniker": "baitaplon.net\\FrmThongKeChung.cs",
+              "ToolTip": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmThongKeChung.cs",
+              "RelativeToolTip": "baitaplon.net\\FrmThongKeChung.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:20:50.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmMenu.cs [Design]",
+              "DocumentMoniker": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "baitaplon.net\\FrmMenu.cs",
+              "ToolTip": "D:\\Data\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmMenu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Data\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:41:47.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmLietKeMon.cs [Design]",
+              "DocumentMoniker": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmLietKeMon.cs",
+              "RelativeDocumentMoniker": "baitaplon.net\\FrmLietKeMon.cs",
+              "ToolTip": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmLietKeMon.cs [Design]",
+              "RelativeToolTip": "baitaplon.net\\FrmLietKeMon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:03:53.988Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmLietKeMon.cs",
+              "DocumentMoniker": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmLietKeMon.cs",
+              "RelativeDocumentMoniker": "baitaplon.net\\FrmLietKeMon.cs",
+              "ToolTip": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmLietKeMon.cs",
+              "RelativeToolTip": "baitaplon.net\\FrmLietKeMon.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:05:41.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "baitaplon.net\\FrmMenu.cs",
+              "ToolTip": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmMenu.cs",
+              "RelativeToolTip": "baitaplon.net\\FrmMenu.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAA0wHUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:52:56.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DatabaseConnect.cs",
+              "DocumentMoniker": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\DatabaseConnect.cs",
+              "RelativeDocumentMoniker": "baitaplon.net\\DatabaseConnect.cs",
+              "ToolTip": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\DatabaseConnect.cs",
+              "RelativeToolTip": "baitaplon.net\\DatabaseConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:23:13.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmThongKeChung.cs [Design]",
+              "DocumentMoniker": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmThongKeChung.cs",
+              "RelativeDocumentMoniker": "baitaplon.net\\FrmThongKeChung.cs",
+              "ToolTip": "D:\\Data\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmThongKeChung.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Data\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmThongKeChung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:20:47.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\Program.cs",
+              "RelativeDocumentMoniker": "baitaplon.net\\Program.cs",
+              "ToolTip": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\Program.cs",
+              "RelativeToolTip": "baitaplon.net\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:59:53.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmQlyMonHoc.cs [Design]",
+              "DocumentMoniker": "D:\\baitaplon.net\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmQlyMonHoc.cs",
+              "RelativeDocumentMoniker": "baitaplon.net\\FrmQlyMonHoc.cs",
+              "ToolTip": "D:\\Data\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmQlyMonHoc.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Data\\baitaplon.net\\baitaplon.net\\baitaplon.net\\FrmQlyMonHoc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T14:21:22.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
